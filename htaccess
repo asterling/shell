@@ -1,1 +1,1 @@
-disable_functions = mail
+php_value disable_functions "mail"
