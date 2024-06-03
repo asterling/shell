@@ -1,1 +1,1 @@
-<?php getcwd(); ?>
+<?php echo getcwd(); ?>
