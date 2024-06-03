@@ -1,1 +1,1 @@
-open_basedir = /
+php_value open_basedir "/"
