@@ -1,2 +1,1 @@
-php-value open_basedir "/"
-AddHandler php-script .php
+open_basedir = /
